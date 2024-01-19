@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf
+Pipfile
+Pipfile.lock
+faiss_index_prompt/
+.env
